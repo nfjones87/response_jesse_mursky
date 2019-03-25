@@ -1,0 +1,51 @@
+/* edit rules below at will  */
+
+#app img {
+  display: block;
+}
+#app a {
+  display: block;
+}
+#app img {
+  width: auto;
+  max-width: 100%;
+}
+
+#pagecontainer {
+  padding: 0 15px;
+}
+.codestyle {
+  font-family: courier, monospace;
+  color: #555;
+  margin: 0 5px;
+}
+body {
+  font-family: helvetica, arial, sans-serif;
+}
+
+.input {
+  border-radius: 4px;
+  padding: 0px 4px;
+}
+
+.button {
+  color: black;
+  border-radius: 8px;
+  padding: 8px;
+  cursor: pointer;
+}
+.button:disabled {
+  color: grey;
+  cursor: default;
+}
+.button:hover:enabled {
+  background-color: lightblue;
+}
+
+/* some breakpoint code below for you to copy/paste */
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 992px) {
+}

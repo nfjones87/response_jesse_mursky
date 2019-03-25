@@ -1,0 +1,50 @@
+[
+  {
+    "vote_count": 2551,
+    "id": 415,
+    "video": false,
+    "vote_average": 4.2,
+    "title": "Batman & Robin",
+    "popularity": 10.104,
+    "poster_path": "/79AYCcxw3kSKbhGpx1LiqaCAbwo.jpg",
+    "original_language": "en",
+    "original_title": "Batman & Robin",
+    "genre_ids": [878, 28, 14, 35],
+    "backdrop_path": "/39jbxGwfR4wHBV7apo3JiNdHDHq.jpg",
+    "adult": false,
+    "overview": "Along with crime-fighting partner Robin and new recruit Batgirl, Batman battles the dual threat of frosty genius Mr. Freeze and homicidal horticulturalist Poison Ivy. Freeze plans to put Gotham City on ice, while Ivy tries to drive a wedge between the dynamic duo.",
+    "release_date": "1997-06-20"
+  },
+  {
+    "vote_count": 388,
+    "id": 485942,
+    "video": false,
+    "vote_average": 5.6,
+    "title": "Batman Ninja",
+    "popularity": 12.108,
+    "poster_path": "/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg",
+    "original_language": "ja",
+    "original_title": "ニンジャバットマン",
+    "genre_ids": [28, 16],
+    "backdrop_path": "/cDbJAqGIsnpJfiNiYNBQYQs0ZWY.jpg",
+    "adult": false,
+    "overview": "Gorilla Grodd's time displacement machine transports many of Batman's worst enemies to feudal Japan, along with the Dark Knight and a few of his allies.",
+    "release_date": "2018-04-24"
+  },
+  {
+    "vote_count": 274,
+    "id": 408648,
+    "video": false,
+    "vote_average": 5.8,
+    "title": "Batman and Harley Quinn",
+    "popularity": 10.296,
+    "poster_path": "/uVdxoD9kn28qC8VQiVA6Uif1QHl.jpg",
+    "original_language": "en",
+    "original_title": "Batman and Harley Quinn",
+    "genre_ids": [12, 28, 16, 878],
+    "backdrop_path": "/2JVnUtyUKbQm165cXUF9r5iVPDo.jpg",
+    "adult": false,
+    "overview": "Batman and Nightwing are forced to team with the Joker's sometimes-girlfriend Harley Quinn to stop a global threat brought about by Poison Ivy and Jason Woodrue, the Floronic Man.",
+    "release_date": "2017-08-14"
+  }
+]

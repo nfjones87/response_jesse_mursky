@@ -1,0 +1,104 @@
+/* NOT CURRENTLY BEING USED due to uncertainty about ejecting and updating existing code / packages */
+/* components > FlexBox > styles.css */
+/* .flex-box.container {
+  display: flex;
+} */
+
+/* directions */
+/* .direction-row {
+  direction: row;
+}
+.direction-row-reverse {
+  direction: row-reverse;
+}
+.direction-column {
+  direction: column;
+}
+.direction-column-reverse {
+  direction: column-reverse;
+} */
+
+/* wrapping */
+/* .wrap-nowrap {
+  flex-wrap: nowrap;
+}
+.wrap-wrap {
+  flex-wrap: wrap;
+}
+.wrap-wrap-reverse {
+  flex-wrap: wrap-reverse;
+} */
+
+/* content justification */
+/* .justifyContent-flex-start {
+  justify-content: flex-start;
+}
+.justifyContent-flex-end {
+  justify-content: flex-end;
+}
+.justifyContent-center {
+  justify-content: center;
+}
+.justifyContent-space-between {
+  justify-content: space-between;
+}
+.justifyContent-space-around {
+  justify-content: space-around;
+}
+.justifyContent-space-evenly {
+  justify-content: space-evenly;
+} */
+
+/* item alignment */
+/* .alignItems-stretch {
+  align-items: stretch;
+}
+.alignItems-flex-start {
+  align-items: flex-start;
+}
+.alignItems-flex-end {
+  align-items: flex-end;
+}
+.alignItems-center {
+  align-items: center;
+}
+.alignItems-base-line {
+  align-items: base-line;
+} */
+
+/* aligning content */
+/* .alignContent-stretch {
+  align-items: stretch;
+}
+.alignContent-flex-start {
+  align-items: flex-start;
+}
+.alignContent-flex-end {
+  align-items: flex-end;
+}
+.alignContent-center {
+  align-items: center;
+}
+.alignContent-space-between {
+  align-items: space-between;
+}
+.alignContent-space-around {
+  align-items: space-around;
+} */
+
+/* alignign self for items */
+/* .alignSelf-auto {
+  align-self: auto;
+}
+.alignSelf-flex-start {
+  align-self: flex-start;
+}
+.alignSelf-flex-end {
+  align-self: flex-end;
+}
+.alignSelf-center {
+  align-self: center;
+}
+.alignSelf-baseline {
+  align-self: baseline;
+} */

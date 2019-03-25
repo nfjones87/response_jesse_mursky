@@ -1,0 +1,24 @@
+#homepage {
+	width: 1000px;
+}
+
+
+#homepage .title {
+	margin-bottom: 20px;
+}
+
+#homepage .assesTitle{
+	margin-top: 30px;
+}
+
+#homepage .assesSubTitle {
+	margin-top: 20px;
+}
+
+#homepage .bonus SPAN {
+	font-weight: bold;
+}
+
+#homepage .bonus {
+	margin-top: 30px;
+}
