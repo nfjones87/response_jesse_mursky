@@ -14,9 +14,9 @@ First and foremost this is currently missing properly modularized CSS and an alp
 
 I was unfortunately on a MegaBus traveling home from Philadelphia during the entirety of the allotted question time. I did my best to review the project, but internet is spotty on those things and so I was unable to install packages and boot it up for a proper review.
 
-Once of the main questions I would have asked is what 'properly scoped' CSS meant in the context of this project. Since it is using React 15.5 I would need to eject to acheive properly modularized CSS. Since that is an irreversible action I would not do that without first asking. As such I simply defined classNames in the 'project-global-styles' for "themeatic" styling and then inside each component's directory with a separate file to override based on a root className for that component.
+Once of the main questions I would have asked is what 'properly scoped' CSS meant in the context of this project. Since it is using React 15.5 I would need to eject to achieve properly modularized CSS. Since that is an irreversible action I would not do that without first asking. As such I simply defined classNames in the 'project-global-styles' for "themeatic" styling and then inside each component's directory with a separate file to override based on a root className for that component.
 
-The second question I would have asked is the preferred method to acheive an alphabetized search result. From what I can see the API does not provide that option. Since the APIs response for search is paginated all pages would have to be pulled in order to acheive a proper alphatized response. If a user types in a single letter (e.g. 'B') and hits submit that equates to 85473 results in 4274 pages. An amount of data that is excessive to say the least.
+The second question I would have asked is the preferred method to achieve an alphabetized search result. From what I can see the API does not provide that option. Since the APIs response for search is paginated all pages would have to be pulled in order to achieve a proper alphatized response. If a user types in a single letter (e.g. 'B') and hits submit that equates to 85473 results in 4274 pages. An amount of data that is excessive to say the least.
 
 ECMA NOTES
 STRING.startsWith not IE friendly
